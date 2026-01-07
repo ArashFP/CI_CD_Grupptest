@@ -1,5 +1,5 @@
 Kapitel 1
-
+Tre personer försöker lära sig git.
 
 Kapitel 2 det är onsdag idag.
 
